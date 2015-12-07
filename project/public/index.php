@@ -25,10 +25,10 @@ try {
     // Set the database service
     $di['db'] = function() {
         return new DbAdapter(array(
-            "host"     => "localhost",
+            "host"     => "localhost:33060",
             "username" => "root",
-            "password" => "secret",
-            "dbname"   => "tutorial"
+            "password" => "",
+            "dbname"   => "user"
         ));
     };
 

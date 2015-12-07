@@ -5,8 +5,11 @@ define('PDO_PATH',ROOT_PATH.'app/models/FluentPDO/');
 include PDO_PATH."FluentPDO.php";
 
 class BaseModel extends Model{
+    
+    public $db;
+    
     function __construct(){
-        $pdo = new PDO("mysql:dbname=fblog", "root", "password");
-        $fpdo = new FluentPDO($pdo);
+        $pdo = new \PDO("mysql:dbname=user", "root", "root");
+        $this->db = new FluentPDO($pdo);
     }
 }
