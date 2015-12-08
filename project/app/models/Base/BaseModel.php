@@ -1,15 +1,14 @@
 <?php
 namespace Base;
-use Phalcon\Mvc\Model;
-define('PDO_PATH',ROOT_PATH.'app/models/FluentPDO/');
-include PDO_PATH."FluentPDO.php";
+use FluentPDO;
 
-class BaseModel extends Model{
+
+class BaseModel {
     
-    public $db;
-    
+    public $db = "213";
     function __construct(){
         $pdo = new \PDO("mysql:dbname=user", "root", "root");
-        $this->db = new FluentPDO($pdo);
+        $fpdo = new FluentPDO($pdo);
     }
+   
 }

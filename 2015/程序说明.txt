@@ -1,0 +1,16 @@
+安装说明：
+
+程序需要PHP和MYSQL支持
+
+上传完后，打开http://程序目录/install.php 进行安装
+
+上传安装之后切记删除install.php，以防重复安装覆盖造成损失
+
+祝福管理：http://程序目录/del.php?id=不良祝福语序号&pass=admin
+
+&pass=admin这里的admin是在del.php第二行里的密码，自己记得要修改
+
+信息配制在config.php这个文件内！
+
+演示地址：http://www.zhufu8.net/2015
+官方网址：http://www.zhufu8.net
