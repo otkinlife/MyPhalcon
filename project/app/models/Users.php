@@ -1,10 +1,12 @@
 <?php
-use Base\BaseModel; 
+include "Base\BaseModel.php";
 
 class Users extends BaseModel{
 
     public function test(){
-        echo $this->db;
+        $res = $this->db->from('shangfox_user')
+            ->fetchAll();
+        print_r($res);
     }	
 
 }

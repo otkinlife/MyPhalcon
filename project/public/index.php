@@ -27,7 +27,7 @@ try {
         return new DbAdapter(array(
             "host"     => "localhost:33060",
             "username" => "root",
-            "password" => "",
+            "password" => "root",
             "dbname"   => "user"
         ));
     };

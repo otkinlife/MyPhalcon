@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df765a81-bc4e-46aa-ae14-bdc22933151d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/app/controllers/UserController.php" />
+      <change type="DELETED" beforePath="C:\wamp\www\project\app\controllers\SignupController.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\project\app\models\FluentPDO\BaseQuery.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\project\app\models\FluentPDO\CommonQuery.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\project\app\models\FluentPDO\DeleteQuery.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\project\app\models\FluentPDO\FluentLiteral.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\project\app\models\FluentPDO\FluentPDO.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\project\app\models\FluentPDO\FluentStructure.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\project\app\models\FluentPDO\FluentUtils.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\project\app\models\FluentPDO\InsertQuery.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\project\app\models\FluentPDO\SelectQuery.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\project\app\models\FluentPDO\UpdateQuery.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xuyuan\APP\Runtime\Cache\Index\dff44c8e9ebea4949049842757e96f1a.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xuyuan\APP\Runtime\Logs\15_12_08.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\404.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Class\Category.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Class\Image.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Common\common.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Conf\config.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Conf\stmp.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Conf\verify.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Conf\water.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Conf\webconfig.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Lib\Action\CommonAction.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Action\AddressAction.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Action\CacheAction.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Action\FriendlinkAction.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Action\IndexAction.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Action\LoginAction.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Action\SystemAction.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Action\WishAction.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Conf\config.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Index\i.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Index\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Login\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Public\Css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Public\Css\login.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Public\Css\public.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Public\Images\a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Public\Images\b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Public\Images\bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Public\Images\c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Public\Images\glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Public\Images\logo-normal.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Public\Images\logo-small.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Public\Images\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Public\Js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Public\Js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Public\Js\jquery-1.7.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Public\Js\jquery-1.8.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Public\Js\login.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Singlepage\add.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Singlepage\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Singlepage\update.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\System\stmp.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\System\verify.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\System\webconfig.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Wish\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Wish\lists.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Wish\trach.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\Wish\update.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\friendlink\add.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\friendlink\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Admin\Tpl\friendlink\update.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Action\AddAction.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Action\IndexAction.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Action\InfoAction.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Action\SearchAction.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Action\SinglepageAction.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Conf\config.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Model\CommentViewModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Model\SearchViewModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\TagLib\TagLibHd.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Add\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\ArticleList\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\ArticleList\list.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\ArticleList\video.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\ArticleShow\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Brand\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Cart\add.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Cart\go.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Cart\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Cart\list.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Cart\ok.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Cart\pay.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Cart\payok.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\CaseList\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\CaseShow\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Common\caseright.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Common\contact.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Common\css.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Common\digg.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Common\footer.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Common\nav.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Common\right.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Common\singlepageright.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Index\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Index\show.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Info\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Search\caseshow.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Search\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Search\list.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\ShopList\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\ShopList\lists.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\ShopShow\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Singlepage\404.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Singlepage\about.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Singlepage\android.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Singlepage\contact.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Singlepage\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Singlepage\index2.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Singlepage\item.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Singlepage\map.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Singlepage\pay.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Singlepage\pub.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Singlepage\website.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Tag\caseshow.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Tpl\Tag\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Widget\CardWidget.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Widget\Card\Card.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Widget\FriendlinkWidget.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Widget\Friendlink\Friendlink.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Widget\SinglepagecategoryWidget.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\APP\Modules\Index\Widget\Singlepagecategory\Singlepagecategory.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Data\font.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Css\common.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Css\main.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\404.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\arrow-down.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\b3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\b5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\b6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\b7.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\b8.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\b9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\background1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\background12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\background16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\background18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\background2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\background21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\background4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\background8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\black3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\black4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\black5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\black6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\black7.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\black8.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\black9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\bottomNavOFF.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\bottomNavON.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\content-title.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\default-two.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\default.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\dmhot.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\dot.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\footerLine.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\grey.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\header.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\headerTop.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\hk.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\hk2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\hl.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\hl2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\hot.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\icons.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\left_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\line.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\line.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\line1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\line2.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\linetwo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\list.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\logo-small.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\logo-user.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\logo-w - 副本.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\logo-w.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\look.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\nav-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\nav-sep.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\next_arrow_60.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\notice.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\other-title.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\pageNav.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\play.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\prev_arrow_60.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\process.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\right_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\s.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\search-form.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\search-submit-page.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\searchBg - 副本 (2).png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\searchBg - 副本.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\searchBg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\see.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\subsprites.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\three.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\ulListDot.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Images\wxx.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Js\archefoucs.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Js\back.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Js\common.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Js\date.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Js\jquery-1.7.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Js\jquery-1.9.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Js\jquery.SuperSlide.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Js\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Js\submitcheck.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Js\tab.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Js\time.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Js\wish.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Other\Css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Other\Css\buttons.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Other\Css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Other\Css\login.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Other\Css\public.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Other\Css\user.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Other\Images\bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Other\Images\glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Other\Images\logo-normal.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Other\Images\logo-small.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Other\Images\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Other\Js\bootstrap-datetimepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Other\Js\bootstrap-datetimepicker.zh-CN.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Other\Js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Other\Js\common.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Other\Js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Other\Js\jquery-1.7.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Other\Js\jquery-1.8.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\Public\Other\Js\login.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Common\common.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Common\functions.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Common\runtime.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Conf\alias.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Conf\convention.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Conf\debug.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Conf\tags.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Action\RestAction.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Behavior\AgentCheckBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Behavior\BrowserCheckBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Behavior\CheckActionRouteBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Behavior\CheckLangBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Behavior\CronRunBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Behavior\FireShowPageTraceBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Behavior\RobotCheckBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Behavior\UpgradeNoticeBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Cache\CacheApachenote.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Cache\CacheApc.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Cache\CacheDb.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Cache\CacheEaccelerator.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Cache\CacheMemcache.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Cache\CacheRedis.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Cache\CacheShmop.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Cache\CacheSqlite.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Cache\CacheWincache.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Cache\CacheXcache.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Db\DbIbase.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Db\DbMongo.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Db\DbMssql.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Db\DbOracle.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Db\DbPdo.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Db\DbPgsql.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Db\DbSqlsrv.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Session\SessionDb.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\TagLib\TagLibHtml.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Template\TemplateEase.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Template\TemplateLite.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Template\TemplateMobile.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Template\TemplateSmart.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Driver\Template\TemplateSmarty.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Function\extend.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Crypt\Base64.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Crypt\Crypt.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Crypt\Des.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Crypt\Hmac.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Crypt\Rsa.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Crypt\Xxtea.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Email.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Net\Http.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Net\IpLocation.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Net\UploadFile.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\ArrayList.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\Auth.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\Cart.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\CodeSwitch.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\Cookie.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\Date.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\Debug.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\HtmlExtractor.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\Image.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\Image\Driver\GIF.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\Image\Driver\ImageGd.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\Image\Driver\ImageImagick.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\Image\ThinkImage.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\Image\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\Input.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\Page.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\RBAC.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\Session.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\Socket.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\Stack.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Library\ORG\Util\String.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Amf\Action.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Amf\App.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Amf\Db.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Amf\Model.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Cli\Action.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Cli\App.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Cli\Db.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Cli\Log.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Cli\Model.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Cli\functions.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Lite\Action.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Lite\App.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Lite\Db.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Lite\Dispatcher.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Lite\Model.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Lite\tags.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Phprpc\Action.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Phprpc\App.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Phprpc\Db.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Phprpc\Model.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Phprpc\alias.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Rest\Action.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Rest\Behavior\CheckRestRouteBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Rest\Behavior\CheckUrlExtBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Rest\config.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Rest\tags.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Thin\Action.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Thin\App.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Thin\Db.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\Thin\Model.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\amf.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\cli.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\lite.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\phprpc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\rest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Mode\thin.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Model\AdvModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Model\MongoModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Model\RelationModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Model\ViewModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\README.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\Requirements-Checker\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\Requirements-Checker\assets\checker.phtml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\Requirements-Checker\assets\denied\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\Requirements-Checker\assets\denied\checker.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\Requirements-Checker\assets\denied\web.config" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\Requirements-Checker\assets\failed.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\Requirements-Checker\assets\info.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\Requirements-Checker\assets\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\Requirements-Checker\assets\passed.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\Requirements-Checker\assets\rewrite\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\Requirements-Checker\assets\rewrite\checker.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\Requirements-Checker\assets\rewrite\web.config" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\Requirements-Checker\assets\warning.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\Requirements-Checker\checker.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\SwitchMobileTplBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\TemplateMobile.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\Tpl\Index\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\Tpl\Public\css\TPMlist.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\Tpl\Public\css\TPMmodal.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\Tpl\Public\js\.TPM.js.swp" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\Tpl\Public\js\TPM.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\Tpl\Public\js\TPMlist.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\Tpl\Public\js\TPMmodal.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\Tpl\Public\js\TPMupload.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\Tpl\Public\js\app.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\Tpl\Public\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\Tpl\Public\js\desktopBrowsers.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\Tpl\Public\js\jquery-1.9.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\Tpl\Public\js\jquery-2.0.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\Tpl\Public\js\modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\Tpl\Public\js\prefixfree.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\Tpl\Public\js\touch.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\Tpl\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\Tpl\layout.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\TPM\readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\phpunit.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\ThinkEditor.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\jquery-1.6.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\plugins\myplugins.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\plugins\system.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\plugins\upload_interface.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\default\config.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\default\dialog\css\base.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\default\dialog\css\te_dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\default\dialog\dialog.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\default\img\bg_img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\default\img\bg_img.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\default\img\resize_center.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\default\img\resize_leftjpg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\default\img\spacer.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\default\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\default\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_0.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_1.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_10.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_100.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_101.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_102.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_103.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_104.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_11.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_12.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_13.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_14.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_15.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_16.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_17.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_18.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_19.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_2.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_20.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_21.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_22.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_23.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_24.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_25.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_26.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_27.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_28.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_29.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_3.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_30.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_31.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_32.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_33.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_34.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_35.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_36.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_37.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_38.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_39.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_4.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_40.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_41.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_42.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_43.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_44.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_45.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_46.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_47.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_48.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_49.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_5.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_50.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_51.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_52.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_53.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_54.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_55.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_56.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_57.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_58.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_59.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_6.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_60.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_61.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_62.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_63.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_64.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_65.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_66.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_67.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_68.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_69.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_7.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_70.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_71.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_72.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_73.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_74.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_75.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_76.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_77.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_78.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_79.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_8.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_80.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_81.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_82.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_83.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_84.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_85.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_86.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_87.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_88.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_89.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_9.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_90.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_91.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_92.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_93.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_94.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_95.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_96.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_97.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_98.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Tool\thinkeditor\skins\qq_face\qq_face_99.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Alipay\Corefunction.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Alipay\Md5function.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Alipay\Notify.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Alipay\Submit.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Alipay\_notes\dwsync.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Alipay\alipayapi.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\EaseTemplate\template.core.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\EaseTemplate\template.ease.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\SmartTemplate\class.smarttemplate.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\SmartTemplate\class.smarttemplatedebugger.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\SmartTemplate\class.smarttemplateparser.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\Smarty.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\SmartyBC.class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\debug.tpl" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\block.textformat.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\function.counter.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\function.cycle.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\function.fetch.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\function.html_checkboxes.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\function.html_image.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\function.html_options.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\function.html_radios.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\function.html_select_date.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\function.html_select_time.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\function.html_table.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\function.mailto.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\function.math.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifier.capitalize.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifier.date_format.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifier.debug_print_var.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifier.escape.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifier.regex_replace.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifier.replace.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifier.spacify.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifier.truncate.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifiercompiler.cat.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifiercompiler.count_characters.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifiercompiler.count_paragraphs.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifiercompiler.count_sentences.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifiercompiler.count_words.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifiercompiler.default.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifiercompiler.escape.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifiercompiler.from_charset.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifiercompiler.indent.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifiercompiler.lower.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifiercompiler.noprint.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifiercompiler.string_format.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifiercompiler.strip.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifiercompiler.strip_tags.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifiercompiler.to_charset.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifiercompiler.unescape.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifiercompiler.upper.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\modifiercompiler.wordwrap.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\outputfilter.trimwhitespace.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\shared.escape_special_chars.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\shared.literal_compiler_param.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\shared.make_timestamp.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\shared.mb_str_replace.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\shared.mb_unicode.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\shared.mb_wordwrap.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\plugins\variablefilter.htmlspecialchars.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_cacheresource.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_cacheresource_custom.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_cacheresource_keyvaluestore.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_config_source.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_cacheresource_file.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_append.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_assign.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_block.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_break.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_call.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_capture.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_config_load.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_continue.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_debug.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_eval.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_extends.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_for.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_foreach.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_function.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_if.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_include.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_include_php.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_insert.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_ldelim.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_nocache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_private_block_plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_private_function_plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_private_modifier.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_private_object_block_function.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_private_object_function.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_private_print_expression.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_private_registered_block.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_private_registered_function.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_private_special_variable.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_rdelim.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_section.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_setfilter.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compile_while.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_compilebase.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_config.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_config_file_compiler.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_configfilelexer.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_configfileparser.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_data.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_debug.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_filter_handler.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_function_call_handler.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_get_include_path.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_nocache_insert.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_parsetree.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_resource_eval.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_resource_extends.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_resource_file.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_resource_php.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_resource_registered.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_resource_stream.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\xywxyq_v2 (1)\ThinkPHP\Extend\Vendor\Smarty\sysplugins\smarty_internal_resource_string.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/app/controllers/Base/BaseController.php" afterPath="$PROJECT_DIR$/project/app/controllers/Base/BaseController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/app/models/Base/BaseModel.php" afterPath="$PROJECT_DIR$/project/app/models/Base/BaseModel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/app/controllers/IndexController.php" afterPath="$PROJECT_DIR$/project/app/controllers/IndexController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/app/models/Users.php" afterPath="$PROJECT_DIR$/project/app/models/Users.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/public/templates_c/e6170b7d3b0bb907ba2da7301aa56c74e046517b_0.file.index.tpl.php" afterPath="$PROJECT_DIR$/project/public/templates_c/e6170b7d3b0bb907ba2da7301aa56c74e046517b_0.file.index.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/public/index.php" afterPath="$PROJECT_DIR$/project/public/index.php" />
+    </list>
+    <ignored path="www.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="www" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="BaseModel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/app/models/Base/BaseModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.72727275">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Users.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/app/models/Users.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.72727275">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/app/controllers/IndexController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.1428572">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding>
+                <element signature="e#6#33#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project/app/controllers/UserController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.64640886">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+              <folding>
+                <element signature="e#6#33#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/app/views/templates/index.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.909091">
+              <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project/app/models/Base/FluentPDO.php" />
+        <option value="$PROJECT_DIR$/project/app/models/libs/SelectQuery.php" />
+        <option value="$PROJECT_DIR$/project/app/models/libs/FluentPDO.php" />
+        <option value="$PROJECT_DIR$/project/app/models/Base/BaseModel.php" />
+        <option value="$PROJECT_DIR$/project/app/models/Users.php" />
+        <option value="$PROJECT_DIR$/project/app/controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/project/app/controllers/UserController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Code" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df765a81-bc4e-46aa-ae14-bdc22933151d" name="Default" comment="" />
+      <created>1449649825327</created>
+      <option name="number" value="Default" />
+      <updated>1449649825327</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19499241" sideWeight="0.48764417" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19271624" sideWeight="0.51235586" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24304539" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/project/app/models/Base/BaseModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/app/models/Users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/app/controllers/Base/BaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12698413">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/PDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35359117">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13259669">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/app/views/templates/index.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.909091">
+          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/app/models/Users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.72727275">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/app/models/Base/BaseModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.72727275">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/app/controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1428572">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#33#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/app/controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64640886">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <element signature="e#6#33#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

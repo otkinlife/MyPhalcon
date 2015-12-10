@@ -1,7 +1,6 @@
 <?php
 use Phalcon\Mvc\Controller;
 use Base\BaseController;
-use Users as UserModel;
 
 class IndexController extends BaseController{
     
